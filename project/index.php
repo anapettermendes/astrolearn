@@ -20,7 +20,7 @@
 
 
   	<div class="intro">
-    <h5> Welcome to Astro-learn, the interactive learning experience. </h5>
+    <h5> Welcome to Astro-learn, the interactive learning experience. ANT IS SO COOL </h5>
     <p class="p">The E-learning website perfect for key stage 2 students, in compliance with the UK Government educational guidelines. Here you can travel through the Solar 	System, fly to the Sun but be careful not to get burnt! Explore our Universe and all its magnificent Stars, watch as they twinkle and lead you to Mars</p>
 	   <p class="p"> Test your knowledge on everything you learn a make sure you come back and visit us for more educational fun…</p>
 
